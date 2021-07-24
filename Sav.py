@@ -208,4 +208,4 @@ async def setup(ctx):
 
 
 keep_alive()
-client.run('ODY4MzUyMDcxODEwODIyMTc0.YPuZ4w.erx-24Ztyva8X918Hpx2JOYsPjo')
+client.run('Your-Token-Here')
